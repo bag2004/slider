@@ -1,0 +1,2 @@
+# slider
+разработка слайдера. firstproject
